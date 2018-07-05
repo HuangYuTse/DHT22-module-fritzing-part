@@ -1,0 +1,1 @@
+# DHT22-module-fritzing-part
