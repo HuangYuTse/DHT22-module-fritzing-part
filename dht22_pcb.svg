@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -7,25 +7,16 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   gorn="0"
-   width="0.39375in"
    version="1.1"
-   xml:space="preserve"
-   id="Layer_2"
-   x="0in"
-   height="0.492083in"
-   y="0in"
-   enable-background="new 0 0 28.4 35.4"
-   viewBox="0 0 28.4 35.4"
+   gorn="0"
+   width="36"
+   height="18"
+   id="svg4364"
    sodipodi:docname="dht22_pcb.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
-     id="metadata19"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
-     id="defs17" /><sodipodi:namedview
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -36,58 +27,60 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1440"
      inkscape:window-height="802"
-     id="namedview15"
+     id="namedview108"
      showgrid="false"
-     inkscape:zoom="4.9957696"
-     inkscape:cx="-29.040561"
-     inkscape:cy="23.619985"
+     inkscape:zoom="12.027778"
+     inkscape:cx="18"
+     inkscape:cy="-5.3361744"
      inkscape:window-x="0"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_2" /><desc
-     id="desc2"><referenceFile>pcb.svg</referenceFile></desc><g
-     gorn="0.1"
-     id="silkscreen"><rect
-       width="27.8"
-       stroke-miterlimit="10"
-       x="0.3"
-       height="34.9"
-       y="0.2"
-       id="rect4"
-       stroke-width="0.5"
-       stroke="#FFFFFF"
-       fill="none" /></g><circle
-     style="opacity:1;fill:#000000;fill-opacity:0.01785715;stroke:#f3bd19;stroke-width:1.3538835;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path823"
-     cx="7.4443932"
-     cy="4.2399359"
-     r="1.7295054"
-     inkscape:tile-cx="6.5420427"
-     inkscape:tile-cy="4.135774"
-     inkscape:tile-w="4.8128943"
-     inkscape:tile-h="4.8128943"
-     inkscape:tile-x0="4.1355956"
-     inkscape:tile-y0="1.7293268" /><use
-     x="0"
-     y="0"
-     inkscape:tiled-clone-of="#path823"
-     xlink:href="#path823"
-     id="use855"
-     width="100%"
-     height="100%" /><use
-     x="0"
-     y="0"
-     inkscape:tiled-clone-of="#path823"
-     xlink:href="#path823"
-     transform="translate(7.2193414)"
-     id="use857"
-     width="100%"
-     height="100%" /><use
-     x="0"
-     y="0"
-     inkscape:tiled-clone-of="#path823"
-     xlink:href="#path823"
-     transform="translate(14.438683)"
-     id="use859"
-     width="100%"
-     height="100%" /></svg>
+     inkscape:current-layer="layer8" />
+  <desc
+     id="desc2">
+    <referenceFile>AM2302_Humidity_and_Temperature_Sensor____pcb__9c268c2c521ede51978cd4e3b9b39a74.svg</referenceFile>
+  </desc>
+  <defs
+     id="defs4366" />
+  <metadata
+     id="metadata4369">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 1">
+    <g
+       inkscape:groupmode="layer"
+       id="copper1"
+       inkscape:label="copper1">
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:0.01785715;stroke:#f3bd19;stroke-width:1.80200005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path930"
+         cx="18.290995"
+         cy="9.0208015"
+         r="2.6605082" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:0.01785715;stroke:#f3bd19;stroke-width:1.70262921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path933"
+         cx="28.434172"
+         cy="9.0208015"
+         r="2.7101853" />
+         <circle
+         style="opacity:1;fill:#000000;fill-opacity:0.01785715;stroke:#f3bd19;stroke-width:1.70262921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path928"
+         cx="-7.2883682"
+         cy="9.0208015"
+         transform="scale(-1,1)"
+         r="2.7101853" />
+    </g>
+  </g>
+</svg>
